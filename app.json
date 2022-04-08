@@ -1,26 +1,27 @@
 {
-      "name": "𝕍𝕚𝕝𝕝𝕒𝕚𝕟",
-      "description": "An Anime themed Telegram group management bot a noob Akay team",
-      "keywords": [
-         "telegram",
-         "anime",
-         "group",
-         "manager",
-         "Villain"
-      ],   
-   "repository": "https://github.com/akborana/VILLAIN_GROUP_BOT",
-   "buildpacks": [
-    {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-    },
-    {
-      "url": "heroku/python"
-    }     
-  ],      
-   "env": {
-      "TOKEN": {
-         "description": "Your bot token. Get one from @BotFather 😈",
-         "required": true,
-         "value": ""
-   }
+  "name": "Lêɠêɳ̃dẞø†",
+  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Lêɠêɳ̃dẞøY. Made with Love And By Python Language With Hardwork... ❤ ",
+  "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
+  "keywords": [
+    "telegram",
+    "userbot",
+    "plugin",
+    "legendbot",
+    "modular",
+    "productivity"
+  ],
+  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
+  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
+  "success_url": "https://t.me/Legend_Userbot",
+  "addons": [{
+    "plan": "heroku-postgresql",
+    "options": {
+      "version": "12"
+    }
+  }],
+  "buildpacks": [{
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+  },{
+    "url": "heroku/python"
+  }]
 }
