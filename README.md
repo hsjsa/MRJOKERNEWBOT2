@@ -28,7 +28,7 @@
 
 
 ## Deploy
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://www.herokucdn.com)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy)
 
 [![Deploy To Railway](https://railway.app/button.svg)](https://railway.app)
 
