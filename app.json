@@ -9,14 +9,6 @@
          "Villain"
       ],   
    "repository": "https://github.com/akborana/VILLAIN_GROUP_BOT",
-   "addons": [
-      {
-         "options": {
-            "version": "12"
-         },
-         "plan": "heroku-postgresql"
-      }
-   ],
    "buildpacks": [
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
