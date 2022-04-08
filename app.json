@@ -1,5 +1,5 @@
 {
-      "name": "MR JOKER BOT",
+      "name": "𝕍𝕚𝕝𝕝𝕒𝕚𝕟",
       "description": "An Anime themed Telegram group management bot a noob Akay team",
       "keywords": [
          "telegram",
@@ -8,7 +8,7 @@
          "manager",
          "Villain"
       ],   
-   "repository": "https://github.com/hsjsa/MRJOKERNEWBOT2",
+   "repository": "https://github.com/akborana/VILLAIN_GROUP_BOT",
    "addons": [
       {
          "options": {
@@ -16,7 +16,21 @@
          },
          "plan": "heroku-postgresql"
       }
-   ]
+   ],
+   "buildpacks": [
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "heroku/python"
+    }     
+  ],      
+   "env": {
+      "TOKEN": {
+         "description": "Your bot token. Get one from @BotFather 😈",
+         "required": true,
+         "value": ""
+   },
    "keywords": [
       "telegram",
       "anime",
@@ -24,6 +38,6 @@
       "manager",
       "daisy"
    ],
-   "name": "MR JOKER BOT",
-   "repository": "https://github.com/hsjsa/MRJOKERNEWBOT2"
+   "name": "𝕍𝕚𝕝𝕝𝕒𝕚𝕟",
+   "repository": "https://github.com/akborana/VILLAIN_GROUP_BOT"
 }
