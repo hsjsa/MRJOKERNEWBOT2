@@ -17,7 +17,7 @@ class Config(object):
     API_ID = 6235351  # integer value, dont use ""
     BOT_ID = 5031427097
     API_HASH = "f68fde1378da8f85a243f2ae57f2fcf9"
-    STRING_SESSION = "BQATALeWXSrQ6h6YS4cizq4hvDZ51ZJdDxNxuvDiI9iOlOlcagsMBMOveBfHE-iuXvWJaReJM6wWoY53XZEgjkT8hDPjXgubUZf-5AjRusUbYGN2a6Hoiq8N0qfajejHIz5fxgG2Gp6CI9rzNMKAJWx5QEjaZXibeNMAFeX_mWXKYovzNg7EuvQ7lUTcob7_3xXxTQHXTDiygpgE5FGFNkEQF8fajpWjQnHS0ew7_TOaoXT1SnZ-O94gLLgHoVtTRBDTV3OkJLOQapJFtO7mTTQgIFiPeDaGk6fYv3Kg41z8WaAAUuxwL96qJgDzRc1jNF_8JPa3d-Kts8-WXcBbkX0IQ3OqNQA"
+    #STRING_SESSION = "BQATALeWXSrQ6h6YS4cizq4hvDZ51ZJdDxNxuvDiI9iOlOlcagsMBMOveBfHE-iuXvWJaReJM6wWoY53XZEgjkT8hDPjXgubUZf-5AjRusUbYGN2a6Hoiq8N0qfajejHIz5fxgG2Gp6CI9rzNMKAJWx5QEjaZXibeNMAFeX_mWXKYovzNg7EuvQ7lUTcob7_3xXxTQHXTDiygpgE5FGFNkEQF8fajpWjQnHS0ew7_TOaoXT1SnZ-O94gLLgHoVtTRBDTV3OkJLOQapJFtO7mTTQgIFiPeDaGk6fYv3Kg41z8WaAAUuxwL96qJgDzRc1jNF_8JPa3d-Kts8-WXcBbkX0IQ3OqNQA"
     TOKEN = "5031427097:AAFBwYpQ3wlgXrv4nSDPf8J3Mcflh3ZJ9KU"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     BOT_USERNAME = "Mr_Jkr_Bot"
     OWNER_ID = 5042525177   # If you dont know, run the bot and do /id in your private chat with it, also an integer
