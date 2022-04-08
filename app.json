@@ -1,0 +1,29 @@
+{
+      "name": "MR JOKER BOT",
+      "description": "An Anime themed Telegram group management bot a noob Akay team",
+      "keywords": [
+         "telegram",
+         "anime",
+         "group",
+         "manager",
+         "Villain"
+      ],   
+   "repository": "https://github.com/hsjsa/MRJOKERNEWBOT2",
+   "addons": [
+      {
+         "options": {
+            "version": "12"
+         },
+         "plan": "heroku-postgresql"
+      }
+   ]
+   "keywords": [
+      "telegram",
+      "anime",
+      "group",
+      "manager",
+      "daisy"
+   ],
+   "name": "MR JOKER BOT",
+   "repository": "https://github.com/hsjsa/MRJOKERNEWBOT2"
+}
